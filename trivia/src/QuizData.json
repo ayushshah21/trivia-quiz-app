@@ -2,153 +2,179 @@
     "questions": [
       {
         "id": 1,
-        "question": "Soccer player Cristiano Ronaldo opened a museum dedicated to himself.",
-        "correct_answer": "True",
-        "options": ["True", "False"]
+        "question": "Chicago Bears won the first NFL Super Bowl?",
+        "correct_answer": "False",
+        "options": ["True", "False"],
+        "imgSrc": "fam.jpeg"
       },
       {
         "id": 2,
-        "question": "The manga JoJo's Bizarre Adventure is split into how many parts?",
-        "correct_answer": "8",
-        "options": ["6", "4", "3", "8"]
+        "question": "How many US dollars is 50 Lakh Indian Rupees?",
+        "correct_answer": "60k",
+        "options": ["65k", "59k", "60k", "45k"],
+        "imgSrc": "fams.jpeg"
       },
       {
         "id": 3,
         "question": "The core of the Sun can reach which temperature?",
         "correct_answer": "27 Million F (15 Million C)",
-        "options": ["938,000 F (521093.3 C)", "8 Billion F (4.4 Billion C)", "Absolute Zero (Both F and C)", "27 Million F (15 Million C)"]
+        "options": ["938,000 F (521093.3 C)", "8 Billion F (4.4 Billion C)", "Absolute Zero (Both F and C)", "27 Million F (15 Million C)"],
+        "imgSrc": "hehe.jpeg"
       },
       {
         "id": 4,
-        "question": "Which game was exclusive to Dreamcast?",
-        "correct_answer": "Pen Pen TriIcelon",
-        "options": ["Sylvester & Tweety in Cagey Capers", "Perfect Dark", "Tetrisphere", "Pen Pen TriIcelon"]
+        "question": "Most MVPs in NBA History",
+        "correct_answer": "Kareeem",
+        "options": ["Jordan", "Lebron", "Kareem", "Wilt"],
+        "imgSrc": "lols.jpeg"
       },
       {
         "id": 5,
         "question": "What book series published by Jim Butcher follows a wizard in modern day Chicago?",
         "correct_answer": "The Dresden Files",
-        "options": ["A Hat in Time", "The Cinder Spires", "My Life as a Teenage Wizard", "The Dresden Files"]
+        "options": ["A Hat in Time", "The Cinder Spires", "My Life as a Teenage Wizard", "The Dresden Files"],
+        "imgSrc": "lolzeez.jpeg"
       },
       {
         "id": 6,
         "question": "How many federal states does Germany have?",
         "correct_answer": "16",
-        "options": ["13", "32", "25", "16"]
+        "options": ["13", "16", "25", "32"],
+        "imgSrc": "fam-1.jpeg"
       },
       {
         "id": 7,
         "question": "In association football, or soccer, a corner kick is when the game restarts after someone scores a goal.",
         "correct_answer": "False",
-        "options": ["True", "False"]
+        "options": ["True", "False"],
+        "imgSrc": "fam-1.jpeg"
       },
       {
         "id": 8,
         "question": "In Touhou: Embodiment of Scarlet Devil, what song plays during Flandre Scarlet's boss fight?",
         "correct_answer": "U.N. Owen Was Her",
-        "options": ["Septette for the Dead Princess", "Flowering Night", "Pierrot of the Star-Spangled Banner", "U.N. Owen Was Her"]
+        "options": ["Septette for the Dead Princess", "U.N. Owen Was Her", "Pierrot of the Star-Spangled Banner", "Flowering Night"],
+        "imgSrc": "fam-1.jpeg"
       },
       {
         "id": 9,
         "question": "Pink Guy's debut album was 'Pink Season'.",
         "correct_answer": "False",
-        "options": ["True", "False"]
+        "options": ["True", "False"],
+        "imgSrc": "wows.jpeg"
       },
       {
         "id": 10,
         "question": "The 'D' in the term 'D-Mail' from the game 'Steins; Gate' is short for what?",
         "correct_answer": "DeLorean",
-        "options": ["Deep", "Demo", "Dev", "DeLorean"]
+        "options": ["Deep", "DeLorean", "Dev", "Demo"],
+        "imgSrc": "jingles.jpeg"
       },
       {
         "id": 11,
         "question": "Matt Damon played an astronaut stranded on an extraterrestrial planet in both of the movies Interstellar and The Martian.",
         "correct_answer": "True",
-        "options": ["True", "False"]
+        "options": ["True", "False"],
+        "imgSrc": "fam-1.jpeg"
       },
       {
         "id": 12,
         "question": "In the 1979 British film 'Quadrophenia' what is the name of the seaside city the mods are visiting?",
         "correct_answer": "Brighton",
-        "options": ["Eastbourne", "Mousehole", "Bridlington", "Brighton"]
+        "options": ["Eastbourne", "Mousehole", "Bridlington", "Brighton"],
+        "imgSrc": "fams.jpeg"
       },
       {
         "id": 13,
         "question": "Which of these songs was released in 1996?",
         "correct_answer": "The Smashing Pumpkins - '1979'",
-        "options": ["Prince - '1999'", "James Blunt - '1973'", "David Bowie - '1984'", "The Smashing Pumpkins - '1979'"]
+        "options": ["Prince - '1999'", "James Blunt - '1973'", "David Bowie - '1984'", "The Smashing Pumpkins - '1979'"],
+        "imgSrc": "fam.jpeg"
       },
       {
         "id": 14,
         "question": "Which of these is not a wonder weapon in 'Call Of Duty: Zombies'?",
         "correct_answer": "R115 Resonator",
-        "options": ["GKZ-45 Mk3", "Ray Gun", "Scavenger", "R115 Resonator"]
+        "options": ["GKZ-45 Mk3", "Ray Gun", "Scavenger", "R115 Resonator"],
+        "imgSrc": "fam.jpeg"
       },
       {
         "id": 15,
         "question": "Pac-Man was invented by the designer Toru Iwatani while he was eating pizza.",
         "correct_answer": "True",
-        "options": ["True", "False"]
+        "options": ["True", "False"],
+        "imgSrc": "fam-1.jpeg"
       },
       {
         "id": 16,
         "question": "What is Tasmania?",
         "correct_answer": "An Australian State",
-        "options": ["A flavor of Ben and Jerry's ice-cream", "A Psychological Disorder", "The Name of a Warner Brothers Cartoon Character", "An Australian State"]
+        "options": ["A flavor of Ben and Jerry's ice-cream", "A Psychological Disorder", "The Name of a Warner Brothers Cartoon Character", "An Australian State"],
+        "imgSrc": "fam.jpeg"
       },
       {
         "id": 17,
         "question": "What is the name of rocky region that spans most of eastern Canada?",
         "correct_answer": "Canadian Shield",
-        "options": ["Rocky Mountains", "Appalachian Mountains", "Himalayas", "Canadian Shield"]
+        "options": ["Rocky Mountains", "Appalachian Mountains", "Himalayas", "Canadian Shield"],
+        "imgSrc": "lols.jpeg"
       },
       {
         "id": 18,
         "question": "Which sport is NOT traditionally played during the Mongolian Naadam festival?",
         "correct_answer": "American Football",
-        "options": ["Wrestling", "Archery", "Horse-Racing", "American Football"]
+        "options": ["Wrestling", "Archery", "Horse-Racing", "American Football"],
+        "imgSrc": "hehe.jpeg"
       },
       {
         "id": 19,
         "question": "Which of these is NOT an Australian state or territory?",
         "correct_answer": "Alberta",
-        "options": ["New South Wales", "Victoria", "Queensland", "Alberta"]
+        "options": ["New South Wales", "Victoria", "Queensland", "Alberta"],
+        "imgSrc": "fams.jpeg"
       },
       {
         "id": 20,
         "question": "With which Greek philosopher would you associate the phrase, 'I know that I know nothing'?",
         "correct_answer": "Socrates",
-        "options": ["Aristotle", "Plato", "Pythagoras", "Socrates"]
+        "options": ["Aristotle", "Plato", "Pythagoras", "Socrates"],
+        "imgSrc": "fam.jpeg"
       },
       {
         "id": 21,
         "question": "Which Canadian reggae musician had a 1993 hit with the song 'Informer'?",
         "correct_answer": "Snow",
-        "options": ["Rain", "Hail", "Sleet", "Snow"]
+        "options": ["Rain", "Hail", "Sleet", "Snow"],
+        "imgSrc": "fam-1.jpeg"
       },
       {
         "id": 22,
         "question": "Nvidia's headquarters are based in which Silicon Valley city?",
         "correct_answer": "Santa Clara",
-        "options": ["Palo Alto", "Cupertino", "Mountain View", "Santa Clara"]
+        "options": ["Santa Clara", "Cupertino", "Mountain View", "Paolo Alto"],
+        "imgSrc": "fam-1.jpeg"
+        
       },
       {
         "id": 23,
         "question": "Which of the following mathematicians made major contributions to game theory?",
         "correct_answer": "John Von Neumann",
-        "options": ["Carl Friedrich Gauss", "Leonhard Euler", "Stefan Banach", "John Von Neumann"]
+        "options": ["Carl Friedrich Gauss", "Leonhard Euler", "Stefan Banach", "John Von Neumann"],
+        "imgSrc": "fam.jpeg"
       },
       {
         "id": 24,
         "question": "In association football, or soccer, a corner kick is when the game restarts after someone scores a goal.",
         "correct_answer": "False",
-        "options": ["True", "False"]
+        "options": ["False", "True"],
+        "imgSrc": "lols.jpeg"
       },
       {
         "id": 25,
         "question": "Matt Damon played an astronaut stranded on an extraterrestrial planet in both of the movies Interstellar and The Martian.",
         "correct_answer": "True",
-        "options": ["True", "False"]
+        "options": ["True", "False"],
+        "imgSrc": "jingles.jpeg"
       }
     ]
   }
