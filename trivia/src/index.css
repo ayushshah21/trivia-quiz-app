@@ -87,6 +87,25 @@ img{
   margin: 3rem;
 }
 .choices{
+  list-style-type: none;
   display: flex;
   justify-content: center;
+}
+.choice li{
+  list-style-type: none;
+  text-decoration: none;
+  color: white;
+}
+.choices button {
+  font-size: 160%;
+  padding: 10px 20px; /* Adjust padding for better spacing */
+  width: auto; /* Adjust the width as needed */
+  max-width: 100%; /* Ensure the button doesn't exceed its container width */
+  text-align: center; /* Center the text */
+  overflow-wrap: break-word; /* Allow long words to be broken and wrapped */
+  line-height: 1.5; /* Adjust line height for better readability */
+  min-height: 40px; /* Set a minimum height for the button */
+}
+.correct{
+  color: lightgreen;
 }
